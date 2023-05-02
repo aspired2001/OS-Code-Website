@@ -28,6 +28,10 @@ or:
 
 [![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs-with-typescript)
 
+or:
+Click the below link to direct access to website
+https://oscode.netlify.app
+
 ## The idea behind the example
 
 The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
